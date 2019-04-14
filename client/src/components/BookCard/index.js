@@ -1,5 +1,4 @@
 import React from 'react';
-import './style.css';
 
 // Stateless Component for both the Search and the SavedBooks Pages.
 function BookCard(props) {
